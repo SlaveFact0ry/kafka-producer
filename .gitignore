@@ -327,7 +327,8 @@ pyrightconfig.json
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
-
+uv.lock
+pyproject.toml
 # Local History for Visual Studio Code
 .history/
 
